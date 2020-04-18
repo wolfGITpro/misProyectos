@@ -3,7 +3,7 @@ package vista;
 import javax.swing.JOptionPane;
 
 /**
- * @author Wolf
+ * @author Wolfrano Agustin Zepeda
  */
 public class Acceso extends javax.swing.JFrame {
 
